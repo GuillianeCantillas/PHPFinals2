@@ -1,3 +1,12 @@
+// Application Development and Emerging Technologies Final Examination
+/* 
+	Program: 	 E-commerce API
+	Programmer:  Mia Corpuz, Guilliane Cantillas
+	Section: 	 AN22
+	Start Date:  July 16, 2023 
+	End Date:  	 July 17, 2023 
+*/
+
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors')
